@@ -9,6 +9,7 @@ brew cask install spotifree
 brew cask install vlc
 brew cask install webtorrent
 brew install youtube-dl
+brew cask install transmission
 
 brew cask install google-chrome
 
@@ -40,6 +41,7 @@ brew cask install telegram-desktop
 brew cask install slack
 
 brew cask install evernote
+brew cask install notion
 
 brew cask install steam
 
@@ -49,3 +51,7 @@ brew cask install google-photos-backup-and-sync
 
 brew cask install java
 brew install pyenv
+
+# c programming
+brew install clang-format
+brew install cmake
