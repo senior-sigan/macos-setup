@@ -19,6 +19,8 @@ brew cask install sublime-text
 brew cask install atom
 brew cask install visual-studio-code
 brew cask install virtualbox
+brew cask install postman
+brew cask install obs
 
 brew cask install rocket # emojii picker
 brew cask install punto-switcher
@@ -50,8 +52,11 @@ brew cask install dropbox
 brew cask install google-photos-backup-and-sync
 
 brew cask install java
-brew install pyenv
 
 # c programming
 brew install clang-format
 brew install cmake
+
+# machine learning
+brew install pyenv
+brew cask install nteract
