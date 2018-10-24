@@ -7,12 +7,14 @@ brew install mc
 brew cask install spotify
 brew cask install spotifree
 brew cask install vlc
+brew cask install clementine # music player
 brew cask install webtorrent
+brew cask install transmission # torrent tracker
 brew install youtube-dl
-brew cask install transmission
 
 brew cask install google-chrome
 
+brew cask install devdocs
 brew cask install jetbrains-toolbox
 brew cask install unity-hub
 brew cask install sublime-text
@@ -36,7 +38,7 @@ brew cask install spectacle # window management
 brew cask install cheatsheet
 
 brew cask install paragon-ntfs
-brew cask install aerial
+brew cask install aerial # apple tv wallpapers
 
 brew cask install skype
 brew cask install telegram-desktop
@@ -44,6 +46,7 @@ brew cask install slack
 
 brew cask install evernote
 brew cask install notion
+brew cask install raindropio
 
 brew cask install steam
 
