@@ -44,6 +44,8 @@ brew cask install skype
 brew cask install telegram-desktop
 brew cask install slack
 
+brew cask install flux
+
 brew cask install evernote
 brew cask install notion
 brew cask install raindropio
