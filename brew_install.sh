@@ -10,6 +10,7 @@ brew cask install clementine # music player
 brew cask install webtorrent
 brew cask install transmission # torrent tracker
 brew install youtube-dl
+brew cask install lastfm
 
 brew cask install google-chrome
 
@@ -39,6 +40,7 @@ brew cask install gimp
 # brew cask install paintbrush # windows paint
 brew cask install spectacle # window management
 brew cask install cheatsheet
+brew cask install time-lapse-assembler
 
 brew cask install paragon-ntfs
 brew cask install aerial # apple tv wallpapers
