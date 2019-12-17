@@ -1,16 +1,14 @@
 #!/bin/sh
 
-brew tap caskroom/cask
+brew tap homebrew/cask-fonts
 
 brew install mc
 
 brew cask install spotify
 brew cask install vlc
-brew cask install clementine # music player
 brew cask install webtorrent
-brew cask install transmission # torrent tracker
+#brew cask install transmission # torrent tracker
 brew install youtube-dl
-brew cask install lastfm
 
 brew cask install google-chrome
 
@@ -18,27 +16,28 @@ brew cask install devdocs
 brew cask install jetbrains-toolbox
 brew cask install unity-hub
 brew cask install sublime-text
-brew cask install atom
+#brew cask install atom
 brew cask install visual-studio-code
 brew cask install virtualbox
-brew cask install postman
+#brew cask install postman
 
 brew cask install obs
 brew cask install soundflower
 
-brew cask install rocket # emojii picker https://matthewpalmer.net/rocket/
-brew cask install punto-switcher
-brew cask install alfred # spotlight replacement
+#brew cask install rocket # emojii picker https://matthewpalmer.net/rocket/
+#brew cask install punto-switcher
+#brew cask install alfred # spotlight replacement
 brew cask install the-unarchiver # rar, p7zip and so on
 #brew cask install keka
 brew cask install smcfancontrol # fan control
 brew cask install itsycal # toolbox calendar
 brew cask install adobe-acrobat-reader
 brew cask install djview
-brew cask install skitch # screenshoter and editor
+#brew cask install skitch # screenshoter and editor
 brew cask install gimp
 # brew cask install paintbrush # windows paint
 brew cask install spectacle # window management
+brew cask install dozer
 brew cask install cheatsheet
 brew cask install time-lapse-assembler
 
@@ -53,17 +52,19 @@ brew cask install flux
 
 brew cask install evernote
 brew cask install notion
-brew cask install raindropio
-brew cask install dynalist
+#brew cask install raindropio
+#brew cask install dynalist
 
 brew cask install steam
-brew cask install openemu
+#brew cask install openemu
 
 brew cask install yandex-disk
 brew cask install dropbox
 brew cask install google-photos-backup-and-sync
 
 brew cask install java
+
+brew install git-lfs
 
 # c programming
 brew install clang-format
@@ -75,3 +76,5 @@ brew cask install nteract  # jupyter notebook app
 
 # brew cask install macmediakeyforwarder  # to fix media keys bug
 brew cask install balenaetcher # to create ubuntu usb stick
+
+brew cask install font-fira-code
