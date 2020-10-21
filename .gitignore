@@ -1,0 +1,15 @@
+# /Users/ilya/.gitignore
+# Add to /Users/ilya/.gitconfig
+# [core]
+#     excludesfile = /Users/ilya/.gitignore
+
+.ipynb_checkpoints
+.DS_Store
+.idea
+Thumbs.db
+*~
+log/
+*.log
+venv/
+a.out
+cmake-build-debug
