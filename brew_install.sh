@@ -31,7 +31,8 @@ brew install --cask soundflower # macos audio tricks
 #brew install --cask rocket # emojii picker https://matthewpalmer.net/rocket/
 #brew install --cask punto-switcher
 #brew install --cask alfred # spotlight replacement
-brew install --cask clipy # clipboard client https://github.com/Clipy/Clipy
+brew install --cask maccy # clipboard client https://github.com/p0deje/Maccy
+# brew install --cask clipy # deprecated!!! clipboard client https://github.com/Clipy/Clipy
 brew install --cask the-unarchiver # rar, p7zip and so on
 brew install --cask smcfancontrol # fan control
 brew install --cask itsycal # toolbox calendar
